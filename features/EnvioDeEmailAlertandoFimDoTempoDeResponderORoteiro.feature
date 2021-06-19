@@ -12,4 +12,4 @@ Given: O prazo do roteiro lançado na turma de “Informática Teórica” se ex
 And: O aluno “Charles Gabriel” faz parte da turma “Informática Teórica”
 And: “Charles Gabriel” não concluiu o roteiro
 Then: “Charles Gabriel” receberá um email sobre o roteiro 
-And: O email informa sobre o prazo perdido.
+And: O email informa sobre o prazo perdido
